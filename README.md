@@ -22,7 +22,7 @@ You can see my progress:
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="ECS" width="40" height="40"/><img 
-src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40"/></p>
+src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></p>
 
 <h4 align="left"> Social networks </h4>
 
