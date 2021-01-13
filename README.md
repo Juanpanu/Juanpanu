@@ -3,7 +3,7 @@
   <p> Data Scientist at Platzi Master Program | Biomedical engineer.</p>
   <p> From Colombia.</p>
 
-- 🧠I’m always learning about Data Science, Machine Learning and Artificial Intelligensce.
+- 🧠I’m always learning about Data Science, Machine Learning and Artificial Intelligence.
 - 🤔I'm interested Image processing and Data analysis.
 
 
