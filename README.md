@@ -6,6 +6,8 @@
 - 🧠I’m always learning about Data Science, Machine Learning and Artificial Intelligence.
 - 🤔I'm interested Image processing and Data analysis.
 
+My portfolio:
+[Juan's Portfolio](https://juanpanu.github.io/Juan_Portfolio/)
 
 You can see my progress: 
 - [Platzi](https://platzi.com/@juanpanu/) - Platzi profile 
