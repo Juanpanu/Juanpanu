@@ -7,7 +7,7 @@
 - 🤔I'm interested Image processing and Data analysis.
 
 My portfolio:
-[Juan's Portfolio](https://juanpanu.github.io/Juan_Portfolio/)
+[Juan's Portfolio](https://juanpanu.github.io/portfolio/)
 
 You can see my progress: 
 - [Platzi](https://platzi.com/@juanpanu/) - Platzi profile 
