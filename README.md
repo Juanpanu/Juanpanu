@@ -4,7 +4,8 @@
   <p> From Colombia.</p>
 
 - 🧠I’m always learning about Data Science, Machine Learning and Artificial Intelligence.
-- 🤔I'm interested Image processing and Data analysis.
+- 📚 NLP enthusiast
+- 🤔I'm interested Image processing and Data Visualization.
 
 My portfolio:
 [Juan's Portfolio](https://juanpanu.github.io/)
