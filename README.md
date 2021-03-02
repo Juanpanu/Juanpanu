@@ -9,19 +9,21 @@ From Colombia.</p>
 - 🤔I'm interested Image processing and Data Visualization.
 - 📫 How to reach me: juanpa.nb@gmail.com 
   
-<h2 align="center">You can see my progress: 🤓</h2>
+<h2 align="center">My progress: 🤓</h2>
 <p align="Left"> Link to my Platzi and DataCamp Profiles where you can see all courses i've finished</p>
 <p align="Left"> 
-<a href="https://platzi.com/@juanpanu/" >
+<a href="https://platzi.com/@juanpanu/">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Juan Nuñez's Platzi Profile" height="30" width="30">
+   Juan Nuñez's Platzi Profile
   </a>
-  Juan Nuñez's Platzi Profile
+ 
 </p>
 <p align="Left"> 
-<a href=https://www.datacamp.com/profile/juanpanb">
+<a href="https://www.datacamp.com/profile/juanpanb">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/datacamp.svg" alt="Juan Nuñez's DataCamp Profile" height="30" width="30">
+    Juan Nuñez's DataCamp Profile
   </a>
-  Juan Nuñez's DataCamp Profile
+  
 </p> 
 <h2 align="center">My portfolio 🧪</h2>
 <p align="center">Here's the link for my portfolio where you can see projects I've worked on</p>
