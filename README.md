@@ -1,4 +1,4 @@
-<h2 align="center">🖖Hello there! I'm Juan Núñez</h2>
+<h2 align="left">🖖Hello there! I'm Juan Núñez</h2>
 <div align="left">
 <p> Data Scientist at Platzi Master Program | Biomedical engineer.
   From Colombia.</p>
@@ -7,18 +7,10 @@
 - 📚 NLP enthusiast
 - 🤔I'm interested Image processing and Data Visualization.
 - 📫 How to reach me: juanpa.nb@gmail.com 
-
-<h2 align="center">My portfolio 🧪</h2>
-<p align="center">My latests projects</p>
-<p align="center">
-<a href="https://juanpanu.github.io/">
-    <img src="https://juanpanu.github.io/images/Profile.png?raw=true" alt="Juan Nuñez's Portfolio" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">You can see my progress: 🤓</h2>
-<p align="center">Platzi and DataCamp Profiles</p>
-<p align="center">
+  
+<h2 align="left">You can see my progress: 🤓</h2>
+<p align="left">Platzi and DataCamp Profiles</p>
+<p align="left">
 <a href="https://platzi.com/@juanpanu/">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Juan Nuñez's Platzi" height="30" width="30">
   </a>
@@ -26,6 +18,13 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/datacamp.svg" alt="Juan Nuñez's DataCamp" height="30" width="30">
   </a>
 </p> 
+<h2 align="center">My portfolio 🧪</h2>
+<p align="center">My latests projects</p>
+<p align="center">
+<a href="https://juanpanu.github.io/">
+    <img src="https://juanpanu.github.io/images/Profile.png?raw=true" alt="Juan Nuñez's Portfolio" height="30" width="30">
+  </a>
+</p>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -64,7 +63,6 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Juan Nuñez's Twitter Profile" height="30" width="30">
   </a>
 </p>
-<p align="right">Visitor's count :eyes:</p>
-  <p align="right">
-  <a align="right"><img src="https://profile-counter.glitch.me/{juanpanu}/count.svg" alt="juanpanu :: Visitor's Count" /></a>
-</p>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+
