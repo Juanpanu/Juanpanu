@@ -64,6 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Juan Nuñez's Twitter Profile" height="30" width="30">
   </a>
 </p>
-<h4 align="Center">Visitor's count :eyes:</h4>
-<p align="Center"><img src="https://profile-counter.glitch.me/{juanpanu}/count.svg" alt="juanpanu :: Visitor's Count" /></p>
-
+<p align="right">Visitor's count :eyes:</p>
+  <p align="right">
+  <a align="right"><img src="https://profile-counter.glitch.me/{juanpanu}/count.svg" alt="juanpanu :: Visitor's Count" /></a>
+</p>
