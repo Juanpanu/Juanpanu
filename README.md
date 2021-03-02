@@ -1,28 +1,33 @@
 <h2 align="left">🖖Hello there! I'm Juan Núñez</h2>
 <div align="left">
-<p> Data Scientist at Platzi Master Program | Biomedical engineer.
-  From Colombia.</p>
+<p> Data scientist in training at Platzi Master. Biomedical Engineer and oriented to the analysis and visualization of data. Interested in ML and NLP.
+Curious, proactive and always focused on finding the best solution to each situation.
+From Colombia.</p>
 
 - 🧠I’m always learning about Data Science, Machine Learning and Artificial Intelligence.
 - 📚 NLP enthusiast
 - 🤔I'm interested Image processing and Data Visualization.
 - 📫 How to reach me: juanpa.nb@gmail.com 
   
-<h2 align="left">You can see my progress: 🤓</h2>
-<p align="left">Platzi and DataCamp Profiles</p>
-<p align="left">
-<a href="https://platzi.com/@juanpanu/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Juan Nuñez's Platzi" height="30" width="30">
+<h2 align="center">You can see my progress: 🤓</h2>
+<p align="Left"> Link to my Platzi and DataCamp Profiles where you can see all courses i've finished</p>
+<p align="Left"> 
+<a href="https://platzi.com/@juanpanu/" >
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Juan Nuñez's Platzi Profile" height="30" width="30">
   </a>
+  Juan Nuñez's Platzi Profile
+</p>
+<p align="Left"> 
 <a href=https://www.datacamp.com/profile/juanpanb">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/datacamp.svg" alt="Juan Nuñez's DataCamp" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/datacamp.svg" alt="Juan Nuñez's DataCamp Profile" height="30" width="30">
   </a>
+  Juan Nuñez's DataCamp Profile
 </p> 
 <h2 align="center">My portfolio 🧪</h2>
-<p align="center">My latests projects</p>
-<p align="center">
+<p align="center">Here's the link for my portfolio where you can see projects I've worked on</p>
+<p align="center"> 
 <a href="https://juanpanu.github.io/">
-    <img src="https://juanpanu.github.io/images/Profile.png?raw=true" alt="Juan Nuñez's Portfolio" height="30" width="30">
+    <img src="https://juanpanu.github.io/images/Profile.png?raw=true" alt="Juan Nuñez's Portfolio" height="50" width="50">
   </a>
 </p>
 
@@ -64,5 +69,5 @@
   </a>
 </p>
 <h4 align="center">Visitor's count :eyes:</h4>
-
+<p align="center"><img src="https://profile-counter.glitch.me/{juanpanu}/count.svg" alt="juanpanu :: Visitor's Count" /></p>
 
