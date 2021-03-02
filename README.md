@@ -51,10 +51,9 @@
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="left">Top langs :tongue:</h4> <align="right">Profile stats:</h4>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpanu&langs_count=10&theme=tokyonight&layout=compact" alt="Juan :: Top Langs" /> 
-<align="right"><img src="https://github-readme-stats.vercel.app/api?username=juanpanu&show_icons=true" alt="Juan :: Profile Stats" /></p>
+<h4 align="cenet">Top langs And Profile stats 📝</h4>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpanu&langs_count=10&theme=tokyonight&layout=compact" alt="Juan :: Top Langs" / height="200" width="400"> 
+<align="right"><img src="https://github-readme-stats.vercel.app/api?username=juanpanu&show_icons=true" alt="Juan :: Profile Stats" / height="230" width="400"></p>
 
 <h2 align="left">Also you can reach me at ⚡</h2>
 <p align="left">
