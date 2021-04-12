@@ -9,6 +9,9 @@
     <a href="https://twitter.com/Juanpanu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/juanpanu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:juanpa.nb@gmail.com?subject=Hola%20Juan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/juanpanu"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/juanpanu&label=Visitor%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
+</a>
+
 </p>
 
 <hr>
@@ -47,7 +50,8 @@
 
 <p align="Center">This is the place where you can see all the projects I've worked on.</p>
 <p align="Center">
-    <a href="https://juanpanu.github.io/">💻 Juan's Portfolio here</a></p>
+    <a href="https://juanpanu.github.io/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://juanpanu.github.io&label=Portfolio&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
+</a></p>
 
 <!-- <hr> -->
 <!-- 
@@ -57,7 +61,3 @@
 <br>
 <a href="REPOLINK">Repository here</a></p> -->
 <hr>
-
-<h5>:eyes:&nbsp;&nbsp;&nbsp;Visitor's count</h5>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanpanu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
