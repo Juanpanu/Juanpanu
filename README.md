@@ -39,9 +39,9 @@
 <p align="Center"> Link to my Platzi and DataCamp Profiles where you can see all courses i've finished</p>
 <p align="Center">
     <a href="https://platzi.com/@juanpanu/">
-    <img src="https://img.shields.io/badge/-Platzi-0?&logo=platzi&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;</a>
+    <img src="https://img.shields.io/badge/-Platzi-0?&logo=platzi&logoColor=white&style=for-the-badge" /></a>&nbsp;&nbsp;
     <a href="https://www.datacamp.com/profile/juanpanb">
-    <img src="https://img.shields.io/badge/-DataCamp-61DAFB?&logo=datacamp&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;</a>
+    <img src="https://img.shields.io/badge/-DataCamp-61DAFB?&logo=datacamp&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <hr>
@@ -51,7 +51,7 @@
 <p align="Center">This is the place where you can see all the projects I've worked on.</p>
 <p align="Center">   
     <a href="https://juanpanu.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge" />&nbsp;&nbsp;</a>
+    <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
 
 </p>
 
