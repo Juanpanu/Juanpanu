@@ -9,8 +9,8 @@
     <a href="https://twitter.com/Juanpanu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/juanpanu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:juanpa.nb@gmail.com?subject=Hola%20Juan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/juanpanu/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/juanpanu&label=Visitor%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
-</a>
+<!--     <a href="https://github.com/juanpanu/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juanpanu.juanpanu&label=Visitor%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
+</a> -->
 
 </p>
 
@@ -50,7 +50,10 @@
 
 <p align="Center">This is the place where you can see all the projects I've worked on.</p>
 <p align="Center">   
-<a href="https://juanpanu.github.io/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juanpanu.github.io&label=Portfolio%20Here&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />&nbsp;&nbsp;</a></p>
+    <a href="https://juanpanu.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge" />&nbsp;&nbsp;</a>
+
+</p>
 
 
 <!-- <hr> -->
