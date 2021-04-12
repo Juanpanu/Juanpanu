@@ -59,4 +59,5 @@
 <hr>
 
 <h5>:eyes:&nbsp;&nbsp;&nbsp;Visitor's count</h5>
-<p align="center"><img src="https://profile-counter.glitch.me/{juanpanu}/count.svg" alt="juanpanu :: Visitor's Count" /></p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanpanu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
