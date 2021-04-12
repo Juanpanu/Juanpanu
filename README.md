@@ -50,7 +50,7 @@
 
 <p align="Center">This is the place where you can see all the projects I've worked on.</p>
 <p align="Center">
-    <a href="https://juanpanu.github.io/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://juanpanu.github.io&label=Portfolio&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
+    <a href="https://juanpanu.github.io/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://juanpanu.github.io/&label=Portfolio&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
 </a></p>
 
 <!-- <hr> -->
