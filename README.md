@@ -1,7 +1,7 @@
 <h1 align='center'>🖖Hello there! I'm Juan Núñez 🧑‍💻</h1>
 
 <p align='center'>
-    Data scientist in training at Platzi Master program. Biomedical Engineer and oriented to the analysis and visualization of data. Interested in ML and NLP.
+    Data Engineer at Pai. Biomedical Engineer and oriented to the analysis and visualization of data. Interested in ML and NLP.
     Curious, proactive and always focused on finding the best solution to each situation.
 </p>
 
