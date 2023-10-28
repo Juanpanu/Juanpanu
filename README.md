@@ -1,6 +1,6 @@
-<h1 align='center'>🖖Hello there! I'm Juan Pablo Núñez 🧑‍💻</h1>
+<h1 align='center'>🖖 Hello there! I'm Juan Pablo Núñez 🧑‍💻</h1>
 
-<p align='center-left'>
+<p align='center-left'> 
     I'm an Analytics Engineer with more than 2 years of experience in Data Engineering, trained in technologies such a Scala, Spark, Databricks and Github. I also have skills in Scala, Spark, Databricks and Github for project development.
      <br>I'm always eager to learn and stay up to date on the latest trends in data analysis and engineering.
     <br> If you are looking for a passionate and creative Analytics Engineer for challenging projects, I would be happy to connect with you!
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h4>⚒&nbsp;&nbsp;&nbsp;My Dev Toolbelt</h4>
+<h4> 🛠️ &nbsp;&nbsp;&nbsp;My Dev Toolbelt</h4>
 <p align='center'>
     <img src= "https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>&nbsp;&nbsp;
@@ -31,15 +31,11 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
-
-
-
- 
 </p>
 
 <hr>
 
-<h4> 🧠 &nbsp;&nbsp;&nbsp;My progress: </h4>
+<h4> :octocat: &nbsp;&nbsp;&nbsp;My progress: </h4>
 
 <p align="Center"> Link to my Platzi and DataCamp Profiles where you can see all courses i've finished</p>
 <p align="Center">
@@ -48,7 +44,7 @@
     <a href="https://www.datacamp.com/profile/juanpanb">
     <img src="https://img.shields.io/badge/-Datacamp-09192C?style=for-the-badge&labelColor=09192C&logo=Datacamp&logoColor=03EE62" /></a>
 </p>
-
+ 
 <!--<hr>
 <h4>👨‍💻&nbsp;&nbsp;&nbsp;My Portfolio</h4>
 
@@ -59,12 +55,12 @@
     <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
 
 </p>
--->
+
 
 <hr>
 
 
- <h4> :octocat: &nbsp;&nbsp;&nbsp Github Stats  </h4>
+ <h4>&nbsp;&nbsp;&nbsp Github Stats  </h4>
 
 <br >
 
@@ -72,3 +68,4 @@
     <a href="https://github.com/Juanpanu/"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuanpanu%2FJuanpanu&countColor=%23263759" /></a> &nbsp;&nbsp
   <a href="https://github.com/Juanpanu/"><img src="https://img.shields.io/github/followers/juanpanu?color=5C005C&logo=Github&logoColor=FFFFFF&style=for-the-badge&labelColor=5C005C"/></a
 </p>
+-->
