@@ -1,15 +1,13 @@
-<h1 align='center'>🖖Hello there! I'm Juan Núñez 🧑‍💻</h1>
+<h1 align='center'>🖖Hello there! I'm Juan Pablo Núñez 🧑‍💻</h1>
 
 <p align='center'>
-    Data/Analytics Engineer. Biomedical Engineer and oriented to the analysis and visualization of data. Interested in ML and NLP.
-    Curious, proactive and always focused on finding the best solution to each situation.
+    I am an Analytics Engineer with more than 2 years of experience in Data Engineering, trained in technologies such as Python, SQL and PowerBI. I also have skills in Scala, Spark, Databricks and Github for project development.
+    With a focus on transforming data into insights.
 </p>
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/juanpanu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:juanpa.nb@gmail.com?subject=Hola%20Juan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-
 </p>
 
 <hr>
@@ -45,7 +43,7 @@
     <img src="https://img.shields.io/badge/-Datacamp-09192C?style=for-the-badge&labelColor=09192C&logo=Datacamp&logoColor=03EE62" /></a>
 </p>
 
-<hr>
+<!--<hr>
 <h4>👨‍💻&nbsp;&nbsp;&nbsp;My Portfolio</h4>
 
 
@@ -55,7 +53,7 @@
     <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
 
 </p>
-
+-->
 
 <hr>
 
@@ -67,7 +65,7 @@
 <br >
 
 <p>
-    <a href="https://github.com/juanpanu/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juanpanu.juanpanu&label=Visitor%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/></a>&nbsp;&nbsp;
+    <a href="https://github.com/Juanpanu/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Juanpanu.Juanpanu&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" /></a>
   <a href="https://github.com/Juanpanu/"><img src="https://img.shields.io/github/followers/Juanpanu?color=5C005C&logo=Github&logoColor=FFFFFF&style=for-the-badge&labelColor=5C005C"/></a
 </p>
 </details>
