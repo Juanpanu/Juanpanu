@@ -15,7 +15,7 @@
 <hr>
 
 <h4>⚒&nbsp;&nbsp;&nbsp;My Dev Toolbelt</h4>
-<p >
+<p align='center'>
     <img src= "https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>&nbsp;&nbsp;
     <img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;&nbsp;
