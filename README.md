@@ -65,7 +65,7 @@
 <br >
 
 <p>
-    <a href="https://github.com/Juanpanu/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Juanpanu.Juanpanu&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" /></a>
+    <a href="https://github.com/Juanpanu/"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuanpanu%2FJuanpanu&countColor=%23263759" /></a>
   <a href="https://github.com/Juanpanu/"><img src="https://img.shields.io/github/followers/Juanpanu?color=5C005C&logo=Github&logoColor=FFFFFF&style=for-the-badge&labelColor=5C005C"/></a
 </p>
 </details>
