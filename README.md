@@ -1,8 +1,7 @@
 <h1 align='center'>🖖Hello there! I'm Juan Pablo Núñez 🧑‍💻</h1>
 
-<p align='center'>
-    I'm an Analytics Engineer with more than 2 years of experience in Data Engineering, trained in technologies such a Scala, Spark, Databricks and Github.
-   <br> I also have skills in Scala, Spark, Databricks and Github for project development.
+<p align='center-left'>
+    I'm an Analytics Engineer with more than 2 years of experience in Data Engineering, trained in technologies such a Scala, Spark, Databricks and Github. I also have skills in Scala, Spark, Databricks and Github for project development.
      <br>I'm always eager to learn and stay up to date on the latest trends in data analysis and engineering.
     <br> If you are looking for a passionate and creative Analytics Engineer for challenging projects, I would be happy to connect with you!
 </p>
